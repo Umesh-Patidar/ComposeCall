@@ -13,7 +13,7 @@ This sample showcases:
 
 
 # Compose Call Video 🎥
-<img src="https://github.com/Umesh-Patidar/ComposeCall/blob/main/results/screenshot_caller_profile.png" width="200" height="400"/>
+<img src="https://github.com/Umesh-Patidar/ComposeCall/blob/main/results/call_screen_recording.gif" width="200" height="400"/>
 
 # Built With 🛠
 [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
